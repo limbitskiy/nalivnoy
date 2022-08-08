@@ -1,0 +1,10 @@
+{
+    "font": "ubuntu",
+    "colors": "colors1",
+    "navAlign": "space-between",
+    "navGap": 0,
+    "heroImage": "cta-bg.jpg",
+    "heroText": "Наливные полы от производителя",
+    "heroTextColor": "#222",
+    "footerImage": "cta-bg-dark.jpg"
+}
